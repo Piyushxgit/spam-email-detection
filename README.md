@@ -1,5 +1,6 @@
 # 🚫 Spam Email Detection Web App
 
+
 A comprehensive Machine Learning project to classify text messages or emails as **"Spam"** (unwanted/malicious) or **"Ham"** (legitimate). This project includes raw data preprocessing, exploratory data analysis via interactive visualizations, and a fully functional Streamlit web application powered by a custom-trained **Scikit-Learn Naive Bayes Classifier**.
 
 ---
