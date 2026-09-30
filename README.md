@@ -27,7 +27,7 @@ Simply double-click on `run_app.bat` inside the project folder. This will automa
 Open your terminal, navigate to the folder, and run:
 ```bash
 <<<<<<< Updated upstream
-git clone https://github.com/PiYuSh7-2/spam-email-detection.git
+git clone https://github.com/Piyushxgit/spam-email-detection.git
 
 
 ### Thankyou'll 
@@ -44,7 +44,7 @@ If you are a developer looking to explore the code, modify the data, or deploy t
 ### Local Development Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PiYuSh7-2/spam-email-detection.git
+   git clone https://github.com/Piyushxgit/spam-email-detection.git
    cd spam-email-detection
    ```
 2. Create and activate a Python virtual environment:
